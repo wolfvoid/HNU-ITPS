@@ -8,7 +8,7 @@ HNU21大三专业综合设计课设。
 小组成员
 
 - @甘晴void
-- @earnshawn
+- @Earnshawn
 - @一只快活小散仙
 - @想开一点
 - @Y++
