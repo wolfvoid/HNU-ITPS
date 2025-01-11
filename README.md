@@ -4,6 +4,9 @@ HNU - Intelligent Transportation Prediction System (2024Summer for a Course Proj
 ## 1 简介
 
 HNU21大三专业综合设计课设。
+实现的是一个前端+后端的可视化分析平台，能实现数据采集，预测，呈现
+具体实现效果请参考下面的文字报告地址
+[文字报告地址](https://blog.csdn.net/qq_39480177/article/details/143454509)
 
 小组成员
 
